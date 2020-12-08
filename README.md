@@ -8,8 +8,7 @@
 ## Build exe
 
 ```
-cd Simple
-dotnet publish -c Release -r win-x64
+dotnet publish -c Release -r win-x64 Simple
 ```
 
 `bin\Release\net5.0-windows\win-x64\publish\Simple.exe` will be created.
