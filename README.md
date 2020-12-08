@@ -1,4 +1,4 @@
-# Bild windows GUI App with VS code ![CI](https://github.com/mamewotoko/dotnet_gui/workflows/CI/badge.svg?branch=master) [![Build Status](https://travis-ci.com/mamewotoko/dotnet_gui.svg?branch=master)](https://travis-ci.com/mamewotoko/dotnet_gui)
+# Windows GUI sample app ![CI](https://github.com/mamewotoko/dotnet_gui/workflows/CI/badge.svg?branch=master) [![Build Status](https://travis-ci.com/mamewotoko/dotnet_gui.svg?branch=master)](https://travis-ci.com/mamewotoko/dotnet_gui)
 
 ## Setup
 
