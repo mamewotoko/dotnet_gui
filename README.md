@@ -16,6 +16,9 @@ dotnet publish -c Release -r win-x64
 
 copy publish directory to run Simple.exe. 
 
+## Reference
+* <https://kagasu.hatenablog.com/entry/2017/04/16/192117>
+
 ----
 Takashi Masuyama < mamewotoko@gmail.com >  
 https://mamewo.ddo.jp/
