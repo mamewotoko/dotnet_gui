@@ -1,4 +1,4 @@
-# Bild windows GUI App with VS code
+# Bild windows GUI App with VS code ![CI](https://github.com/mamewotoko/dotnet_gui/workflows/CI/badge.svg?branch=master)
 
 ## Setup
 
