@@ -1,7 +1,8 @@
 language: csharp
 mono: none
 os: windows
+before_script:
+  - choco install dotnet-5.0-sdk
+  - dotnet --version
 script:
-- choco install dotnet-5.0-sdk
-- dotnet --version
-- dotnet publish -c Release -r win-x64 Simple
+  - dotnet publish -c Release Simple
